@@ -18,11 +18,7 @@ Deploy a containerized flask (python) app which serves out predictions (inferenc
 
 ## Setup the Environment
 
-* Create a virtualenv and activate it:
-`
-python3 -m venv <your environment name>
-source <your environment name>/bin/activate
-`
+* Create a virtualenv `python3 -m venv <your environment name>` and activate it `source <your environment name>/bin/activate`
 
 * Run `make install` to install the necessary dependencies
 
